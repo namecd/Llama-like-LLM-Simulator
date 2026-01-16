@@ -1,0 +1,4 @@
+*.pyc
+*.nsys-rep
+*.sqlite
+*.log
